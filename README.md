@@ -75,7 +75,7 @@ Tuotuo Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文文�
 
 ## 示例效果
 
-以下样例图来自原作 Ian，角色仍是过时的“小黑”，**只用于校准线条密度、留白和颜色克制**，不代表托托的最终形象。
+以下样例均为托托版，用于校准形象、线条密度和双色克制。构图只作参考，实际配图应从当前文章重新发明隐喻。
 
 ### 两个断点
 
@@ -118,8 +118,8 @@ Tuotuo Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文文�
 克隆仓库：
 
 ```bash
-git clone https://github.com/tding1006/tuotuo-illustrations.git
-cd tuotuo-illustrations
+git clone https://github.com/tding1006/ian-xiaohei-illustrations.git
+cd ian-xiaohei-illustrations
 ```
 
 复制 skill 到 Codex skills 目录：
@@ -201,8 +201,10 @@ Use $tuotuo-illustrations 帮我编辑这张图，去掉左上角的“流程图
 ├── assets/
 │   └── ian-wechat-qr.jpg      # 原作者个人二维码，公开 fork 前建议删除
 ├── examples/
-│   ├── images/                # 原作样例图（小黑），仅作风格校准
+│   ├── images/                # 8 张托托版样例，README 展示用
 │   └── prompts.md
+├── legacy/
+│   └── xiaohei-examples/      # 原作者的小黑样例，仅归档，不进安装目录
 └── tuotuo-illustrations/
     ├── SKILL.md
     ├── agents/
@@ -210,7 +212,7 @@ Use $tuotuo-illustrations 帮我编辑这张图，去掉左上角的“流程图
     ├── assets/
     │   ├── ip/
     │   │   └── tuotuo-mia.png # 托托与 mia 形象基准图
-    │   └── examples/          # 原作样例图（小黑），仅作风格校准
+    │   └── examples/          # 14 张托托版样例，仅作风格校准
     └── references/
         ├── tuotuo-ip.md
         ├── style-dna.md
@@ -235,7 +237,7 @@ tuotuo-illustrations/
 - 每张图只讲一个核心结构，不要把文章做成说明书。
 - 托托必须承担核心动作；如果去掉托托画面仍然完全成立，说明她太装饰了。
 - 托托是人形角色，不能变成漏斗、黑块、影子；荒诞感要靠物件和动作。
-- 示例图只用于校准线条密度、留白、颜色克制，不要复刻构图，也不要参考里面过时的角色形象。
+- 示例图只用于校准托托形象、线条密度、留白和双色克制，不要复刻构图。
 - AI 图像模型可能出现错字、幻觉标签、风格漂移或多余标题，生成后需要检查。
 - 托托最常见的漂移是“变可爱”，出现腮红、闪亮眼、换装时要立刻重生成。
 - 如果中文错字严重，优先减少标注词并重生成。
