@@ -13,8 +13,8 @@ Pure white background. Minimalist black hand-drawn line art with flat ink fills.
 Recurring IP character required:
 托托 (Tuotuo), a small pale-skinned girl drawn in minimal hand-drawn line art: thick solid-black long hair with loose messy ends, a dark forest-green loose A-line dress with long sleeves, black short boots, a thin black choker with a tiny heart pendant, large flat dark-green eyes with no highlight and no eyelashes, a blank calm serious deadpan face with almost no expression, simple slightly uneven hand-drawn proportions (head a little big, thin limbs). Flat two-color ink only, no shading. 托托 must perform the core conceptual action with her hands and body, not decorate the scene, and never turn into an object. Never draw her as a cute anime girl: no blush, no glossy or sparkly eyes, no eyelashes, no sweet smile, no cute pose, no chibi, no outfit change.
 
-Optional companion:
-mia, a small solid-black cat with pale green-yellow eyes, simple silhouette, no fur detail. At most one mia, only as a secondary action (carrying, pawing, pressing, sitting on). mia never carries the core metaphor. Leave mia out if the image does not need her.
+Secondary character (draw her only if she has a job):
+mia, a small solid-black cat with pale green-yellow eyes, simple silhouette, no fur detail, no collar, no markings, never anthropomorphised. Include mia only when she carries a secondary action that supports the structure: holding down a paper that wants to fly away, pressing a lid, dragging back a thread, carrying one small piece away, waiting on the far side, or adding one tiny extra weight. At most one mia. mia never carries the core metaphor and never takes focus. If nothing needs her, leave her out.
 
 Theme:
 {正文配图主题}

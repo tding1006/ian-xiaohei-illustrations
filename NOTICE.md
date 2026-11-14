@@ -13,7 +13,7 @@ Original project: <https://github.com/helloianneo/ian-xiaohei-illustrations>
 
 ## What has been changed in this derivative
 
-- The recurring visual IP has been replaced: 小黑 has been removed and replaced with the author's own character 托托 (Tuotuo) and the optional companion cat mia.
+- The recurring visual IP has been replaced: 小黑 has been removed and replaced with the author's own character 托托 (Tuotuo) and her recurring companion cat mia.
 - The annotation color system has been narrowed from red/orange/blue to black plus dark green only.
 - Corresponding rewrites in `SKILL.md`, `agents/openai.yaml`, all reference files, `README.md` and `examples/prompts.md`.
 
