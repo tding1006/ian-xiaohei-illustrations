@@ -9,7 +9,7 @@ Original project: <https://github.com/helloianneo/ian-xiaohei-illustrations>
 - The skill structure and directory layout
 - The workflow: read the article → pick cognitive anchors → shot list → single-image generation → QA → delivery
 - The reference file system (`style-dna`, `composition-patterns`, `prompt-template`, `qa-checklist`) and most of its wording
-- The original bundled example images drawn with 小黑, now kept under `legacy/xiaohei-examples/` for reference only and excluded from the installable skill directory
+- The original bundled example images drawn with 小黑 have been removed from this repository; they remain available in the original project linked above.
 
 ## What has been changed in this derivative
 
@@ -19,7 +19,7 @@ Original project: <https://github.com/helloianneo/ian-xiaohei-illustrations>
 
 ## Attribution
 
-The character “小黑” is part of Ian's visual language for Chinese article illustrations and is not claimed by this derivative work. The original example images kept under `legacy/xiaohei-examples/` remain Ian's work and are retained only for historical reference; the 托托 example images in this repository were newly generated for this derivative and follow the original skill's composition language.
+The character “小黑” is part of Ian's visual language for Chinese article illustrations and is not claimed by this derivative work. All 托托 example images in this repository were newly generated for this derivative and follow the original skill's composition language; the original 小黑 images are not redistributed here and can be viewed in the original project linked above.
 
 Please keep this attribution when redistributing or adapting this repository.
 

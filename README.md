@@ -198,13 +198,9 @@ Use $tuotuo-illustrations 帮我编辑这张图，去掉左上角的“流程图
 ├── README.md
 ├── LICENSE
 ├── NOTICE.md
-├── assets/
-│   └── ian-wechat-qr.jpg      # 原作者个人二维码，公开 fork 前建议删除
 ├── examples/
 │   ├── images/                # 8 张托托版样例，README 展示用
 │   └── prompts.md
-├── legacy/
-│   └── xiaohei-examples/      # 原作者的小黑样例，仅归档，不进安装目录
 └── tuotuo-illustrations/
     ├── SKILL.md
     ├── agents/
